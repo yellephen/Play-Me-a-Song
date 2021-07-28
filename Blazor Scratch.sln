@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor Scratch", "Blazor Scratch.csproj", "{FFA30284-D7C1-4E41-AA21-540EE246EBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA30284-D7C1-4E41-AA21-540EE246EBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA30284-D7C1-4E41-AA21-540EE246EBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA30284-D7C1-4E41-AA21-540EE246EBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA30284-D7C1-4E41-AA21-540EE246EBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78E8AD4-5471-4FE6-932E-396DCABEC6A0}
+	EndGlobalSection
+EndGlobal
