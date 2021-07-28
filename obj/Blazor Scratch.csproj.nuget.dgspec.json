@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\Blazor Scratch.csproj": {}
+    "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\Blazor Scratch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\Blazor Scratch.csproj": {
+    "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\Blazor Scratch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\Blazor Scratch.csproj",
+        "projectUniqueName": "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\Blazor Scratch.csproj",
         "projectName": "Blazor Scratch",
-        "projectPath": "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\Blazor Scratch.csproj",
+        "projectPath": "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\Blazor Scratch.csproj",
         "packagesPath": "C:\\Users\\ds_wa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\obj\\",
+        "outputPath": "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

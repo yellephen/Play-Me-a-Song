@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gWem6d5bC5wxm2irRvZHVH+dYKzZi/DKokOZVpDf6zi4hUWycZEmXkWsKzfGT1RgedccxKuJYgOclBar6DbgUg==",
+  "dgSpecHash": "iGeWdKTQcv1ZxSODQ6aihnLobB4Pkp8ggy7pi5ubCfqYCVldnL2BWPbokgYPucVe6wLPPBbb0kZCdifahtEB/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ds_wa\\source\\repos\\Play Me a Song\\Play-Me-a-Song\\Play Me a Song\\Blazor Scratch.csproj",
+  "projectFilePath": "C:\\Users\\ds_wa\\source\\repos\\Play-Me-a-Song\\Play-Me-a-Song\\Blazor Scratch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ds_wa\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ds_wa\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
